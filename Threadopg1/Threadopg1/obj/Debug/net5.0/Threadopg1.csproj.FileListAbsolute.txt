@@ -1,0 +1,16 @@
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.exe
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.deps.json
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.runtimeconfig.dev.json
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.dll
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\bin\Debug\net5.0\Threadopg1.pdb
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.dll
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\refint\Threadopg1.dll
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.pdb
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\Threadopg1.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\Threadopg1\Threadopg1\obj\Debug\net5.0\ref\Threadopg1.dll

@@ -1,0 +1,16 @@
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.exe
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.deps.json
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.runtimeconfig.json
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.runtimeconfig.dev.json
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.dll
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\bin\Debug\net5.0\Threadopg3.pdb
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.csproj.AssemblyReference.cache
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.AssemblyInfoInputs.cache
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.AssemblyInfo.cs
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.csproj.CoreCompileInputs.cache
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.dll
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\refint\Threadopg3.dll
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.pdb
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\Threadopg3.genruntimeconfig.cache
+C:\Users\zbcevlo\source\repos\Threadopg3\Threadopg3\obj\Debug\net5.0\ref\Threadopg3.dll
